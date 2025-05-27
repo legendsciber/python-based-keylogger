@@ -4,6 +4,8 @@
 This repo has been made to show the keylogger I made from my "Trolling Discord Scammer" video. This should not be used for malicious purposes, and this is purely for educational use.
 Doing so will have grave consequences.
 
+This sends the users pressed keys within a few seconds to a discord webhook.
+
 This was made in Python by SillyCoderGirl.
 
 You will need `pynput` and `psutil` to run this code.
